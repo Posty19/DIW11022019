@@ -21,6 +21,6 @@ header, footer, article, aside{
     display:flex;
     align-items: center;
     justify-content: center;
-    height: 25vh;/*coje el 1% de la ventana del navegador*/ 
+    min-height: 25vh;/*coje el 1% de la ventana del navegador*/ 
 
 }

@@ -1,6 +1,8 @@
+/*version 1.0*/
 body {
   font-size: 1.2em;
 }
+
 .gridcontenedor {
   display: grid;
   grid-template-columns: 150px auto 150px;
@@ -20,7 +22,7 @@ header, footer, article, aside {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 25vh;
+  min-height: 25vh;
   /*coje el 1% de la ventana del navegador*/
 }
 
