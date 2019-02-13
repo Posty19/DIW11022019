@@ -1,7 +1,6 @@
 body {
   font-size: 1.2em;
 }
-
 .gridcontenedor {
   display: grid;
   grid-template-columns: 150px auto 150px;
